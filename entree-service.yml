@@ -3,7 +3,7 @@ wfd:
     order: 2
     type: dinner
     menu:
-      - Steak
+      - Steak - From Spring Cloud
       - Chicken
       - Fish
       - Turkey
